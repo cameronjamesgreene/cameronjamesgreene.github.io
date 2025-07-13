@@ -2,9 +2,9 @@
 title: "Teacher Labor Markets with Differentiated Pay: Evidence from the COVID-19 Pandemic"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+#permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'I test whether differentiated pay and performance-based pay helped schools navigate challenging teacher labor market conditions, using data on teacher-student ratios and student achievement from a panel of 64 large school districts which represent 8.5 percent of U.S. students. I focus on changes in conditions induced by COVID-19, which led to widespread teacher shortages, particularly in areas such as special education and STEM. I find that districts with established differentiated pay for special education policies raised staffing by 5 percent, equivalent to 1 full-time teacher per school, relative to those without. Districts that adopted differentiated pay between 2019 and 2023 were lower-achieving to begin with and experienced worse outcomes than other districts, consistent with adopting the policy in response to more severe challenges. The results suggest that differentiated pay for special education teachers helped districts address staffing shortages during the pandemic.'
-date: 2025-07-13
+date: 2025-13-07
 #venue: 'Journal 1'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 #paperurl: 'http://academicpages.github.io/files/paper1.pdf'
