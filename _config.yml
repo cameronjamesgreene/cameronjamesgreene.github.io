@@ -25,10 +25,10 @@ author:
   avatar           : "headshot.jpg"
   name             : "Cameron Greene"
   bio              : "Predoctoral Fellow at Yale"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "New Haven, CT"
+  employer         : "Yale University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "cam.greene@yale.edu" 
 
   # Academic websites
   academia         : # URL
