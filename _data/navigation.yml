@@ -9,7 +9,7 @@
 
 main:
   - title: "Research"
-  - url: https://cameronjamesgreene.github.io/research/
+  - url: /research/
     
  # - title: "CV"
 #    url: /cv/
