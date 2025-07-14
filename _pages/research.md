@@ -18,4 +18,4 @@ I test whether differentiated pay helped schools navigate challenging teacher la
 
 ### Estimated Difference, Teacher-Student Ratio by Presence of Differentiated Pay for Special Educators
 
-<img width="2624" height="1768" alt="plot" src="https://github.com/user-attachments/assets/0829e35b-0c8c-4894-9620-4b942f453b7c" />
+<img width="2624" height="1628" alt="plot" src="https://github.com/user-attachments/assets/b0357bfe-bdf8-4b56-803e-2433376ed619" />
