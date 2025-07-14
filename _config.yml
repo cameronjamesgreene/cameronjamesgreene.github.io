@@ -28,7 +28,7 @@ author:
   location         : "New Haven, CT"
   employer         : "Yale University"
   uri              : # URL
-  email            : "cam.greene@yale.edu" 
+  email            : #"cam.greene@yale.edu" 
 
   # Academic websites
   academia         : # URL
