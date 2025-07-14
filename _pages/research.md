@@ -1,6 +1,4 @@
-
 ---
-layout: page
 title: "Research"
 permalink: /research/
 author_profile: true
@@ -9,6 +7,7 @@ redirect_from:
   - /research.md
   - /research.html
 ---
+
 
 [Teacher Labor Markets with Differentiated Pay: Evidence from the COVID-19 Pandemic](https://cameronjamesgreene.github.io/files/Thesis.pdf)
 by Cameron Greene
