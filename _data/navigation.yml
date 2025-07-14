@@ -9,7 +9,7 @@
 
 main:
   - title: "Research"
-  - url: /_pages/research.md
+    url: /_pages/research.md
     
  # - title: "CV"
 #    url: /cv/
