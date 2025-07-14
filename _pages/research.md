@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 
-#[Teacher Labor Markets with Differentiated Pay: Evidence from the COVID-19 Pandemic](https://cameronjamesgreene.github.io/files/Thesis.pdf)  
+# Working paper  
+## [Teacher Labor Markets with Differentiated Pay: Evidence from the COVID-19 Pandemic](https://cameronjamesgreene.github.io/files/Thesis.pdf)  
 by Cameron Greene  
 July 13, 2025
 
