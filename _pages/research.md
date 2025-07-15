@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-## Working Paper  
+## Work in Progress  
 ### Teacher Labor Markets with Differentiated Pay: Evidence from the COVID-19 Pandemic
 by Cameron Greene  
 July 14, 2025
