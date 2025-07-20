@@ -10,7 +10,7 @@ redirect_from:
 
 
 ## Work in Progress  
-### Teacher Labor Markets with Differentiated Pay: Evidence from the COVID-19 Pandemic
+### Teacher Labor Markets with Differentiated Pay
 by Cameron Greene (2025)
 
 #### Estimated Difference, Teacher-Student Ratio by Presence of Differentiated Pay for Special Educators
